@@ -5,7 +5,7 @@
 int main()
 {
     // It is used to display on screen
-    printf("Jay Ganesh..\n");
+    printf("Hello..\n");
     
     // Return the status to the operating system
     return 0;
